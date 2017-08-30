@@ -41,6 +41,10 @@ local openSpells = {
 	[170888] = true, -- "Gain 100 Garrison Resources."
 	[175836] = true, -- "Gain 50 Garrison Resources."
 	[176549] = true, -- "Gain 250 Garrison Resources."
+	[179958] = true, -- "Infuse your current artifact with a large amount of Artifact Power."
+	[187536] = true, -- "Infuse your current artifact with a large amount of Artifact Power."
+	[190599] = true, -- "Infuse your current artifact with a large amount of Artifact Power."
+	[201742] = true, -- "Infuse your current artifact with a large amount of Artifact Power."
 }
 
 local openItems = {
